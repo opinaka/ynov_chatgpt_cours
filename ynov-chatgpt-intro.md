@@ -1,3 +1,10 @@
+### Formation  ChatGPT : Prompts Illustrés <a class="anchor" id="home"></a>
+* 📝 Mohammed ATTIK (Copyright)
+* 📧 mohammed.attik@gmail.com
+* https://www.linkedin.com/in/moh-attik/
+
+
+<!--v--> 
 ###### **Qu'est-ce que ChatGPT ?** 
 - **ChatGPT** est un modèle avancé de traitement du langage naturel développé par **OpenAI**.
 - Il est conçu pour **générer du texte** de manière autonome en réponse à des **prompts** (questions, instructions).
