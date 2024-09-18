@@ -143,3 +143,38 @@ En tant que créatrice de contenu, j'ai appris à transformer cette discrétion 
 Alors, si vous êtes comme moi, introverti(e), pudique, ou simplement curieux(se), n’hésitez pas à me rejoindre dans cet univers. Mon objectif est de montrer que le silence et la discrétion sont loin d'être des défauts. Ils sont une source de créativité, de profondeur, et de connexion avec soi-même.
 
 Bienvenue dans mon monde, où chaque silence a son importance.
+
+
+# Prompt basant un texte brut
+autant expert en rédaction de contenu u peux tu me décrire ma personnalité  dans 500 mots dans la page a propos  en fonction de mon post  LinkedIn avec ce contenu :  5 choses à savoir avant de faire des études dans le digital : 
+
+
+1️⃣ Le marché est saturé, il faut savoir te démarquer et faire la différence pour avoir ta place.
+
+2️⃣ N'attends pas de travailler en entreprise pour avoir de l'expérience. 
+La meilleure chose est de lancer tes projets perso, créer et tester plein de choses.
+
+3️⃣ Avoir un Bac+5 c'est bien, mais tout dépend de ce que tu en fais. 
+Toutes les portes ne te seront pas ouvertes grâce à ça.
+
+4️⃣ Avoir fait une grande école importe peu. 
+Ce qui compte, c'est ta créativité, les expériences que tu auras et comment tu les mets en avant.
+
+5️⃣ Tu n'es pas obligé d'avoir fait des études pour réussir. 
+Dans le secteur du digital, il y a plein de choses que peux apprendre seul entre formant.
+
+### À propos de Sirine : Une personnalité pragmatique et visionnaire
+
+Bienvenue dans mon univers, je suis Sirine, une auto-entrepreneuse passionnée par le marketing digital, avec une approche fondée sur la réalité du marché et un profond désir de briser les stéréotypes. À travers mes expériences et ma vision du monde professionnel, je cherche à inspirer ceux qui, comme moi, refusent de suivre les chemins tracés et souhaitent créer leur propre voie.
+
+Mon parcours dans le secteur du digital m'a rapidement appris que la réalité est souvent bien différente des idées reçues. Dans un marché saturé et hautement compétitif, se démarquer est devenu une nécessité absolue. C’est pourquoi, je crois fermement que la réussite ne vient pas simplement de ce que l’on sait, mais de ce que l’on est capable de créer et d’accomplir par soi-même. Dans cet esprit, je me définis comme une personne pragmatique, tournée vers l'action et résolument ancrée dans le concret.
+
+Je n’attends pas les opportunités, je les crée. C'est une mentalité que je partage à travers mon contenu, notamment sur LinkedIn. Mon conseil numéro un pour ceux qui souhaitent se lancer dans le digital : n'attendez pas d'avoir un emploi en entreprise pour acquérir de l'expérience. En effet, le secteur du digital est l'un des rares où l'auto-formation et l'expérimentation personnelle peuvent vous ouvrir de nombreuses portes. Pour moi, il est essentiel de lancer ses propres projets, de créer, de tester, d’échouer parfois, mais surtout d’apprendre à chaque étape. Cette capacité à agir par soi-même et à s’adapter aux évolutions rapides de l’industrie est ce qui, selon moi, fait la différence entre ceux qui réussissent et ceux qui stagnent.
+
+J’ai également une vision réaliste de l’importance des diplômes. Avoir un Bac+5 est un atout, mais il ne garantit pas le succès. Ce qui compte véritablement, c’est ce que l’on fait de ce diplôme, comment on le valorise à travers des expériences concrètes, et surtout, comment on continue à évoluer au-delà du cadre académique. C’est pourquoi, je prône une approche plus créative et personnalisée. Faire une grande école, c’est bien, mais cela ne vous définit pas. Ce qui compte, c’est la capacité à innover, à réfléchir différemment, et à tirer parti de ses expériences, qu’elles soient formelles ou informelles.
+
+Ce qui me distingue, c’est également ma conviction qu'il n'est pas nécessaire de suivre le parcours classique pour réussir. Dans le monde digital, les compétences s’acquièrent de bien des manières, notamment en autodidacte. Je suis la preuve vivante que l'on peut tracer son chemin en dehors des sentiers battus, en apprenant par soi-même, en s’adaptant aux nouvelles tendances, et en restant curieux et proactif.
+
+Ainsi, mon approche du marketing et de l’entrepreneuriat est avant tout basée sur la créativité, l’audace et la volonté d’être en constante évolution. Je n’ai jamais eu peur de dire ce que je pense ou de remettre en question les idées préconçues. Ce que je veux transmettre à travers mon travail, c'est que chacun peut réussir dans le digital, à condition d’être capable d'apprendre, de s'adapter et de toujours viser plus haut.
+
+Si vous êtes prêt(e) à sortir des sentiers battus et à vous démarquer dans un secteur en constante mutation, alors je vous invite à explorer davantage mes contenus et à découvrir comment vous pouvez vous aussi transformer vos idées en actions concrètes.
