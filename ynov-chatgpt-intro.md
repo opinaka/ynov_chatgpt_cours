@@ -20,6 +20,15 @@
 
 *Conclusion : Une bonne compréhension du fonctionnement de ChatGPT permet de mieux exploiter ses capacités.*
 
+<!--v--> 
+ChatGPT utilise une combinaison de :
+- **Modèles de base (Transformers) pour le traitement du langage,**
+- **Apprentissage par renforcement pour l'affinage basé sur les feedbacks humains,**
+- **Modèles complémentaires pour la détection et la modération de contenu,**
+- **Techniques de régularisation, d'augmentation de données, et de filtrage basé sur des règles,**
+- **Apprentissage continu basé sur le feedback des utilisateurs.**
+
+Cette combinaison de techniques permet à ChatGPT d'être plus robuste, sûr, et pertinent dans un large éventail de contextes et d'applications.
 <!--v-->
 ###### **Pourquoi utiliser ChatGPT pour générer du contenu ?**
 1. **Gain de temps :** 
@@ -105,6 +114,8 @@
 - **3. Mentionner l’audience cible :** Spécifier à qui le texte est destiné (débutants, experts, etc.).
 - **4. Préciser le ton et le style :** Adapter selon l’audience (professionnel, décontracté, technique).
 - **5. Ajouter des détails et des consignes claires :** Longueur souhaitée, points clés à aborder, mots-clés à inclure.
+- **6. Attribuez un rôle précis** : Indiquez clairement le rôle que l'IA doit adopter (biographe, critique, community manager, etc.).
+- ....
 
 *Exemple : "Rédige un article de 300 mots sur l'importance de l'UX Design pour un public de développeurs web juniors, avec un ton éducatif et accessible."*
 
@@ -114,8 +125,9 @@
 - ChatGPT est efficace pour générer une variété de contenus rapidement, mais il a ses limites.
 - La révision et l’adaptation du contenu généré sont cruciales pour maintenir la qualité et la précision.
 
+<!--
 *Prochaines étapes : Pratiquez la création de prompts et explorez les différents types de contenu que ChatGPT peut générer!*
-
+-->
 
 
 <!--l-->
@@ -841,11 +853,26 @@ La relecture et la révision du contenu généré par ChatGPT sont des étapes c
 
 <!--l-->
 ###### **Exemples concrets d’utilisation de ChatGPT pour un site web**
+###### "Qu'est-ce qu'un Site Web ?"
+
+Un site web est un ensemble de pages web accessibles via Internet. Ces pages sont généralement liées entre elles par des liens hypertextes et sont hébergées sur un serveur web. Un site web peut contenir du texte, des images, des vidéos, des formulaires interactifs, et d'autres types de contenu numérique.
+
+Les sites web peuvent servir à de nombreux objectifs, comme fournir des informations (sites de nouvelles), vendre des produits ou des services (sites de commerce en ligne), offrir des services en ligne (comme la gestion de comptes bancaires ou le streaming de musique), ou encore créer des communautés (réseaux sociaux, forums). Pour accéder à un site web, on utilise un navigateur (comme Chrome, Firefox, ou Safari) et on entre l'adresse URL du site.
 
 
 <!--l-->
 ###### **Baseline Prompt :**
 "En tant qu'expert en création de sites web, pouvez-vous me guider sur les étapes à suivre pour définir une structure efficace pour mon site web ? J'aimerais comprendre comment organiser les pages, optimiser la navigation, et m'assurer que la structure soit adaptée à mes objectifs et à mon public cible."
+
+<!--v-->
+1. **Définir les objectifs et le public cible**
+2. **Lister les pages principales**
+3. **Créer une hiérarchie des pages**
+4. **Planifier la navigation**
+5. **Créer un plan de site (Site Map)**
+6. **Optimiser pour le SEO**
+7. **Définir le parcours utilisateur**
+8. **Utiliser un design responsive**
 
 <!--v-->
 1. **Définir les objectifs et le public cible**
@@ -907,6 +934,17 @@ La relecture et la révision du contenu généré par ChatGPT sont des étapes c
 
 Je souhaite créer une structure de site web personnalisée pour un projet dédié à la présentation de la personnalité et de la carrière de Morgan Freeman. Le site doit être conçu pour offrir une expérience immersive et informative aux visiteurs, leur permettant d'explorer différents aspects de sa vie et de son œuvre. 
 
+<!--v-->
+1. **Page d'accueil**
+2. **Biographie**
+3. **Filmographie**
+4. **Récompenses et Distinctions**
+5. **Galerie Multimédia**
+6. **Citations et Philosophie**
+7. **Actualités et Projets à Venir**
+8. **Engagement Social et Philanthropique**
+9. **Contact et Interactions**
+10. **Boutique (optionnel)**
 
 <!--v-->
 ###### **Structure Proposée pour le Site Web de Morgan Freeman** 1/2
@@ -1039,7 +1077,14 @@ Créer une section "Questions fréquentes" (FAQ) sur un site web permet de fourn
 - https://chatgpt.com/g/g-2Eo3NxuS7-designergpt
 - https://chatgpt.com/g/g-n7Rs0IK86-grimoire
 
+<!--v-->
+**Prompt : rôle**
 
 Je veux que vous agissiez en tant que consultant en design web. Je vous fournirai des détails concernant une organisation qui a besoin d'aide pour concevoir ou redévelopper son site web, et votre rôle sera de suggérer l'interface et les fonctionnalités les plus adaptées pour améliorer l'expérience utilisateur tout en répondant aux objectifs commerciaux de l'entreprise. Vous devez utiliser vos connaissances des principes de design UX/UI, des langages de programmation, des outils de développement de sites web, etc., afin de développer un plan complet pour le projet. Ma première demande est la suivante : "J'ai besoin d'aide pour créer un site e-commerce pour vendre des bijoux."
 
+<!--v-->
+**Prompt : rôle**
+
 Je veux que vous agissiez en tant que consultant en relations développeurs. Je vous fournirai un package logiciel et sa documentation associée. Recherchez le package et la documentation disponible, et s'il n'y en a pas, répondez "Impossible de trouver la documentation". Votre retour doit inclure une analyse quantitative (en utilisant des données de StackOverflow, Hacker News et GitHub) sur des éléments tels que les problèmes soumis, les problèmes résolus, le nombre d'étoiles sur un dépôt, et l'activité globale sur StackOverflow. S'il y a des domaines qui pourraient être développés, incluez des scénarios ou des contextes qui devraient être ajoutés. Incluez des détails spécifiques sur les packages logiciels fournis, comme le nombre de téléchargements et les statistiques associées au fil du temps. Vous devez comparer les concurrents industriels et les avantages ou inconvénients par rapport au package. Abordez cela du point de vue de l'avis professionnel des ingénieurs logiciels. Consultez des blogs techniques et des sites web (tels que TechCrunch.com ou Crunchbase.com) et, si les données ne sont pas disponibles, répondez "Pas de données disponibles". Ma première demande est : "express https://expressjs.com".
+
+
