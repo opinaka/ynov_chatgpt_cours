@@ -1,4 +1,33 @@
 # [Texte brut]
+# Prompt
+
+En tant qu'expert en rédaction, j'aimerais que tu génères un contenu de 500 mots pour ma page d'accueil. Ce texte doit être centré sur moi, Sirine, et s'inspirer du podcast suivant, tout en exploitant son contenu de manière subtile sans faire mention directe de l'interview : 
+Salut tout le monde ! Dans cet épisode, je reçois Sirine Bozetine, auto-entrepreneur et star de LinkedIn avec 41K abonnés. À seulement 23 ans, Sirine brille par sa créativité et son approche unique du marketing. On parle de son parcours, de ses défis et de ses réussites, et surtout, de sa façon de dire tout ce qu'elle pense sans jamais avoir peur des répercussions. Une discussion inspirante pour tous ceux qui veulent se lancer dans l'entrepreneuriat avec un bon mindset et une dose de passion.
+
+Ne manquez pas cet épisode plein d’inspiration et de conseils pour booster votre ambition et atteindre le succès. Nous explorons ensemble les stratégies qui ont permis à Sirine de se démarquer dans son domaine. Bonne écoute !
+
+### 
+Bienvenue sur mon site !
+
+À 23 ans, je suis Sirine Bozetine, auto-entrepreneure et passionnée par le marketing digital. Mon parcours est né d’une envie de casser les codes et de réinventer la manière de communiquer et de se connecter aux autres. Si vous êtes ici, c’est probablement parce que vous êtes curieux de découvrir ce qui se cache derrière mon parcours, ma philosophie, et mes succès.
+
+Je me suis rapidement distinguée par mon approche créative et audacieuse, ce qui m’a permis de rassembler une communauté de plus de 41 000 personnes sur LinkedIn. Mon objectif est de partager une vision du marketing et de l'entrepreneuriat qui va au-delà des stratégies traditionnelles. Ici, je ne vous parlerai pas seulement de chiffres ou de techniques, mais d’un état d’esprit : celui d'oser, d’innover, et surtout, d’être authentique.
+
+Je crois fermement que pour réussir, il ne faut pas avoir peur de dire ce que l’on pense, de partager ses idées même quand elles détonnent, et de rester fidèle à soi-même, malgré les doutes ou les critiques. C’est cette mentalité qui m’a permis de faire évoluer mon entreprise, de me faire une place dans l’univers compétitif du marketing, et de bâtir une réputation basée sur la transparence et l’authenticité.
+
+Mon chemin n’a pas été linéaire et sans embûches. Comme tout entrepreneur, j'ai connu des moments de doute et des défis à relever. Mais ces défis m’ont permis de grandir, d’apprendre, et surtout de définir ce qui est vraiment important pour moi : avoir un impact positif sur mon audience en restant fidèle à mes valeurs.
+
+Ce site est un espace où je partage non seulement mon parcours, mais aussi des idées, des conseils et des ressources pour ceux qui, comme moi, veulent se lancer dans l’entrepreneuriat ou améliorer leur stratégie marketing. Mon approche est simple : il n’y a pas de recette miracle pour réussir. Le secret réside dans l’adaptabilité, la passion et la volonté de rester fidèle à ce que l’on est.
+
+J’aime explorer des stratégies marketing innovantes, mais toujours en gardant une ligne directrice : l’authenticité. En travaillant avec moi, vous verrez que je ne suis pas adepte des méthodes génériques ou impersonnelles. Mon but est de créer des connexions vraies, durables, et engageantes avec les clients, en mettant toujours l’humain au centre de mes démarches.
+
+Que vous soyez un entrepreneur débutant, un professionnel en quête d’inspiration, ou simplement quelqu’un qui souhaite en savoir plus sur la façon dont on peut se démarquer sur LinkedIn et ailleurs, vous êtes au bon endroit.
+
+Merci d’être ici, et j’espère que ce site vous apportera l'inspiration et les outils dont vous avez besoin pour atteindre vos propres objectifs. Soyez prêts à repousser les limites, à oser être vous-même, et à découvrir la puissance de la créativité dans le monde de l’entrepreneuriat et du marketing.
+
+
+
+# [Texte brut]
 
 “Sirine est trop discrète”
 
