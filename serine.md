@@ -52,22 +52,14 @@ Vous êtes plutôt introverti ou extraverti ?
 
 
 
-<!--v-->
-###### 
-
 Le prompt que j'ai utilisé pour générer cette description visuelle pourrait être formulé comme suit :
 
-**Prompt :** 
-Représente une jeune femme introvertie, dans un environnement calme et apaisant. Elle est assise seule, plongée dans ses pensées, entourée d'une lumière douce qui reflète sa tranquillité intérieure. Elle est discrète mais forte, avec un regard pensif qui suggère un monde intérieur riche. En arrière-plan, les éléments sont flous, symbolisant le bruit du monde extérieur qui semble loin de son espace mental. Les couleurs doivent être sobres et apaisantes, reflétant la sérénité et la profondeur de sa personnalité."
-
-Cela pourrait fonctionner pour une illustration, une ambiance graphique pour votre site, ou d'autres projets créatifs !
-
 <!--v-->
-###### Résumé 1
-**Prompt :**  En tant qu'expert en rédaction web, peux-tu me générer un texte de 500 mots basant sur le contenu suivant :  [text brute]
+# **Prompt :**  
 
+En tant qu'expert en rédaction web, peux-tu me générer un texte de 500 mots basant sur le contenu suivant :  [text brute]
 
-
+###
 **À propos de Sirine**
 « Sirine est trop discrète. » C'est ce que mes enseignants inscrivaient souvent sur mes bulletins scolaires. Contrairement à mes camarades, je ne bavardais pas trop, je préférais le silence. Pour mes professeurs, j'étais une élève trop effacée, peu expressive, toujours en retrait. Et pourtant, ce silence n'était pas une absence, bien au contraire.
 
@@ -88,10 +80,10 @@ Et vous, êtes-vous plutôt introverti ou extraverti ? Peu importe votre répons
 Voilà un texte qui vous présente tout en mettant en avant vos qualités d’introversion et de discrétion. Si vous avez besoin d'ajustements ou de précisions, n'hésitez pas à me le dire !
 
 <!--v-->
-###### Prompt
+# Prompt
 En tant qu'expert en rédaction web, peux-tu me générer un texte de 500 mots basant sur le contenu suivant pour la page d'accueil et un autre différent pour la page a propos : [texte brute]
 
-### Texte pour la page d'accueil (500 mots) :
+## **Texte pour la page d'accueil (500 mots) :**
 
 Bienvenue sur mon site, un espace dédié à ceux et celles qui, comme moi, se sentent à l’aise dans le silence, dans la réflexion, et loin des projecteurs. Si vous lisez ces lignes, vous avez peut-être déjà remarqué cette particularité chez moi : je suis discrète, introvertie, et j’ai toujours préféré écouter plutôt que parler. 
 
@@ -107,7 +99,7 @@ Et vous, êtes-vous plutôt du genre à briller sous les projecteurs ou à obser
 
 
 
-### Texte pour la page À propos (500 mots) :
+## **Texte pour la page À propos (500 mots) :**
 
 "Sirine est trop discrète." C’est ce que mes professeurs écrivaient souvent sur mes bulletins. Trop discrète, trop effacée, trop silencieuse. Ce commentaire m’a suivi pendant toute ma scolarité. Mais ce que l’on voyait comme un défaut, je l'ai toujours perçu comme une force.
 
